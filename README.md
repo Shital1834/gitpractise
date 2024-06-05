@@ -1,2 +1,3 @@
 # gitpractise
-this is only for practise purpose
+This is only for practise purposes.Editing doe by shital patil.
+
